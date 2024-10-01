@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-# 💫 About Me:
 I am an Esade MIBA student currently working on improving my Python and SQL skills<br><br>
 
 
