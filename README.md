@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I am an Esade MIBA student currently working on improving my Python and SQL skills<br><br>
+** MIBA student @ Esade **
+
+Currently working on improving my Python and SQL skills<br><br>
 
 
 ## 🌐 Socials:
